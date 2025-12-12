@@ -121,7 +121,11 @@ I no longer see models as prediction engines, but as **decision-support tools**.
 ### Author
 
 **Emine Ceran**
+
 Financial Data Science Journey
+
 GitHub: [https://github.com/ebceran](https://github.com/ebceran)
+
 LinkedIn: [https://www.linkedin.com/in/emine-ceran-03b26159/](https://www.linkedin.com/in/emine-ceran-03b26159/)
+
 
